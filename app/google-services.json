@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5881858759",
+    "project_id": "new-home-app",
+    "storage_bucket": "new-home-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5881858759:android:99607b8471b9b54e824ce2",
+        "android_client_info": {
+          "package_name": "com.example.newhomeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5881858759-9pbr54dg55g56uc25eiiaucr0irunri0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX88JKiJ9Fk7aBqO6zt4M7qO_BeQ8io0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5881858759-9pbr54dg55g56uc25eiiaucr0irunri0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
