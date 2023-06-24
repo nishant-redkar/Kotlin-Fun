@@ -6,8 +6,8 @@ To use the app, clone the repository and set up Firebase Authentication with a G
 
 Enjoy the kotlin&Fun Android App!
 
-![photo_2023-06-24_22-47-32](https://github.com/nishant-redkar/Kotlin-and-Fun/assets/136965301/b53460e3-dd4e-4da4-b53a-e732a7b59520)
 ![photo_2023-06-24_22-47-29](https://github.com/nishant-redkar/Kotlin-and-Fun/assets/136965301/f791aac1-c8bf-4c54-a8f1-1d36e6c3a6a3)
 ![photo_2023-06-24_22-47-30](https://github.com/nishant-redkar/Kotlin-and-Fun/assets/136965301/6b59d9ec-2ad7-49f2-81a7-60debe4cd633)
 ![photo_2023-06-24_22-47-31](https://github.com/nishant-redkar/Kotlin-and-Fun/assets/136965301/60f727c5-dbb5-4f63-9a33-a1b808880df8)
+![photo_2023-06-24_22-47-32](https://github.com/nishant-redkar/Kotlin-and-Fun/assets/136965301/b53460e3-dd4e-4da4-b53a-e732a7b59520)
 
